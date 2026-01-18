@@ -9,5 +9,5 @@ I build **fullstack AI solutions** with a primary focus on **Backend** engineeri
 <br />
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,kubernetes,postgres,react,git,gcp,linux,pandas,sklearn&perline=13" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,kubernetes,postgres,react,git,gcp,linux,sklearn&perline=13" />
 </div>
