@@ -4,7 +4,7 @@ I build **fullstack AI solutions** with a primary focus on **Backend** engineeri
 
 - 🛠 **Core Stack:** Python, FastAPI, PyTorch, and Kubernetes.
 - ⛷️ **Creator of:** [Slopefinder.ch](https://slopefinder.ch), a live weather & ski resort finder.
-- 🧠 **Interests:** Building architectures from scratch, from LLMs to trading algorithms.
+- 🧠 **Interests:** Training models from scratch (like [FGPT](https://github.com/feljost/fgpt)), trying to generate money on trading platforms, and searching for the best pow ❄️.
 
 <br />
 
